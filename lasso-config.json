@@ -1,0 +1,11 @@
+{
+    "plugins": [
+        "lasso-less"
+    ],
+    "require": {
+        "transforms": [
+            "lasso-babel-transform"
+        ]
+    },
+    "outputDir": "build/static"
+}
